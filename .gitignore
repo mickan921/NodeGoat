@@ -1,5 +1,11 @@
 # Node modules
 node_modules
+dist/
+logs/
+airgap/logs/
+airgap/.apt-work/
+*.tar
+*.tar.gz
 
 # Logs and databases
 *.log

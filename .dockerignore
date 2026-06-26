@@ -4,3 +4,10 @@ docker-compose.yml
 .git
 .github
 .gitignore
+AIRGAP_SETUP_GUIDE.md
+airgap
+dist
+logs
+node_modules
+*.tar
+*.tar.gz
